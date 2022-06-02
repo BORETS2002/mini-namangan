@@ -359,12 +359,17 @@ body {
   align-items: center;
   justify-content: space-around;
 }
-
 .footer-boss {
   background: #7297ef;
+}
+
+.containerfoter {
+  width: 1040px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 20px;
+  padding-left: 20px;
   padding-top: 40px;
-  padding-left: 221px;
-  padding-right: 296px;
   padding-bottom: 50px;
 }
 .footer-text-one {
